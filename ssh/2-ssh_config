@@ -6,5 +6,5 @@ IdentifyFile ~/.ssh/school
 
 
 PasswordAuthentication no
-HostName    192.168.1.90
+HostName    54.234.178.39
 User	ubuntu
