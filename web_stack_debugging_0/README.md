@@ -1,1 +1,1 @@
-Give me a page!
+Give a page

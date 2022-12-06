@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# checking user running
+# checking user running superuser
 sudo -u "$1" whoami
